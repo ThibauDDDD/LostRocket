@@ -74,3 +74,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /Pixel_path/Content/ModularSciFi
 /Pixel_path/Content/Import
+/Pixel_path/Saved
+/Pixel_path/Intermediate
